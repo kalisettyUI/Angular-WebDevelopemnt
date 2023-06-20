@@ -119,7 +119,6 @@ body {
 } */
 
 li:first-child {
-
     font-weight: bold;
     color: cornflowerblue;
 
@@ -145,9 +144,34 @@ li:nth-child(even) {
 
 }
 
-a:link {
-    color: chocolate;
+article p:first-child {
+    color: red;
 }
+
+/* Style Links */
+
+a:link {
+    color: aqua;
+}
+
+a:visited {
+     color: aqua;
+}
+
+a:hover {
+    color: brown;
+    font-weight: bold;
+    text-decoration: underline dotted ;
+}
+
+a:active {
+    background-color: black;
+    font-style: italic;
+}
+
+/* LVHA */
+
+ 
 
 
 
