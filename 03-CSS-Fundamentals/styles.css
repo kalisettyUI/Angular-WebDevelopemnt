@@ -150,7 +150,7 @@ article p:first-child {
 
 /* Style Links */
 
-a:link {
+/* a:link {
     color: aqua;
 }
 
@@ -167,7 +167,7 @@ a:hover {
 a:active {
     background-color: black;
     font-style: italic;
-}
+} */
 
 /* LVHA */
 
